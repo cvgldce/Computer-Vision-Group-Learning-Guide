@@ -18,7 +18,7 @@ Gather intuition about basic terms in ML by googling around.
 
 Just use:
 
-“Intuition behind …<some random ML term>...”
+“Intuition behind …*some random ML term*...”
 
 Do this for at least 30-40 most common terms that you see.
 
