@@ -1,6 +1,6 @@
 # How to learn Basic Machine Learning
 
-Step 1:
+## Step 1:
 
 Follow the Machine Learning introductory tutorial by Andrew Ng from Stanford University.
 ```
@@ -13,37 +13,57 @@ Follow the Machine Learning introductory tutorial by Andrew Ng from Stanford Uni
 1.4  Learn unsupervised learning methods like K-means, DBSCAN and dimensionality reduction methods like PCA and t-SNE
 ```
 
-Step 2:
+## Step 2:
 Gather intuition about basic terms in ML by googling around.
+
 Just use:
+
 “Intuition behind …<some random ML term>...”
+
 Do this for at least 30-40 most common terms that you see.
 
-## Developers
-Step 3:
-3.1  Follow Sklearn, Keras, Pandas tutorials for Python ML development.
-3.2  Learn to understand GitHub repositories.
+### Developers [Follow below given steps]
 
-Step 4:
+## Step 3:
+```
+3.1  Follow Sklearn, Keras, Pandas tutorials for Python ML development.
+
+3.2  Learn to understand GitHub repositories.
+```
+## Step 4:
+
 Do some cool projects.
 
 ## OR
 
-## Researchers
-Step 3:
+### Researchers [Follow below given steps]
+
+## Step 3:
+
 Read the research papers behind the learning algorithms
+
 Best places to start:
+```
 3.1  Gradient Descent and Ascent [Ascent only if you are planning to go into Reinforcement Learning in the future]
+
 3.2  Backpropagation
-and few others...
+```
+*and few others...*
 
-Step 4:
+## Step 4:
+
 Keep reading research papers unless you can understand the most recent ML research papers.
+```
 4.1  Dropout
-4.2  Batch Normalization
-4.3  Stochastic Gradient Descent
-4.4  Adam Optimizer
-and many more...
 
-Step 5:
+4.2  Batch Normalization
+
+4.3  Stochastic Gradient Descent
+
+4.4  Adam Optimizer
+```
+*and many more...*
+
+## Step 5:
+
 Follow step 3 and 4 from the developer pipeline [Become the complete package ;) ]
