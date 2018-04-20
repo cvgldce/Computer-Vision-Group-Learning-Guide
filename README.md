@@ -1,6 +1,6 @@
 # Computer-Vision-Group-Learning-Guide
 
-![alt text](https://raw.githubusercontent.com/virajmavani/Computer-Vision-Group-Learning-Guide/master/data_repo/cropped-cvg-ldce1.png)
+![alt text](https://raw.githubusercontent.com/CVG-LDCE/Computer-Vision-Group-Learning-Guide/master/data_repo/cropped-cvg-ldce1.png)
 
 ### Docs to learn the very basics to be a part of CVG L.D. College of Engineering.
 
