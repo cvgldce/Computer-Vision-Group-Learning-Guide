@@ -1,9 +1,17 @@
+# How to learn Basic Machine Learning
+
 Step 1:
+
 Follow the Machine Learning introductory tutorial by Andrew Ng from Stanford University.
+```
 1.1  Learn Regression and Classification [Linear and Logistic Regression]
+
 1.2  Learn Support Vector Machines
+
 1.3  Learn Artificial Neural Networks
+
 1.4  Learn unsupervised learning methods like K-means, DBSCAN and dimensionality reduction methods like PCA and t-SNE
+```
 
 Step 2:
 Gather intuition about basic terms in ML by googling around.
