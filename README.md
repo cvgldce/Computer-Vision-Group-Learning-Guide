@@ -1,7 +1,10 @@
 # Computer-Vision-Group-Learning-Guide
 
 ![alt text](https://raw.githubusercontent.com/virajmavani/Computer-Vision-Group-Learning-Guide/master/data_repo/cropped-cvg-ldce1.png)
-Docs to learn the very basics to be a part of CVG L.D. College of Engineering.
+
+## Docs to learn the very basics to be a part of CVG L.D. College of Engineering.
+
+### Introduction
 
 The Computer Vision Group – LDCE, focuses on the research fields of Object detection and Tracking, Person Identification and Re-Identification, Human Face and Gesture analysis, Image Super resolution techniques using Deep Learning and Generative Adversarial Networks, and Applications of Reinforcement Learning.
 
